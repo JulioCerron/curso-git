@@ -6,5 +6,13 @@ public class Main {
 
         int c = a + b;
         System.out.println("el resultado es: " + c);
+
+        int e=10;
+        int f=20;
+
+        int g=e-f;
+        System.out.println("el resultado es: " + g);
     }
+
+
 }
