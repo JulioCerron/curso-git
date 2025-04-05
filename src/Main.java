@@ -7,8 +7,8 @@ public class Main {
         int c = a + b;
         System.out.println("el resultado es: " + c);
 
-        int e=10;
-        int f=20;
+        int e=110;
+        int f=50;
 
         int g=e-f;
         System.out.println("el resultado es: " + g);
